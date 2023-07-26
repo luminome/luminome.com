@@ -1,0 +1,73 @@
+:root {
+    color: rgba(100,100,100,1.0);
+    font-family: heavy_data;
+    font-size: 0.8em;
+}
+
+@font-face {
+    font-family: heavy_data;
+    font-weight: normal;
+    font-feature-settings: normal;
+    src: url(/static/font/pf_tempesta_seven.ttf);
+}
+
+body {
+    margin: 10px;
+}
+
+div {
+    /* background-color: beige; */
+}
+
+.note{
+    font-size:80%;
+    opacity:0.8;
+}
+
+.ro{
+    display: flex;
+    flex-direction: row;
+    border-bottom:1px rgba(0,0,0,0.25) dotted;
+    /* flex-basis: 25vw auto; */
+}
+
+.c0{
+    width: 25vw;
+    font-weight: bolder;
+}
+
+.c1{
+    flex: 1;
+}
+
+.note, .ro, div, h2, h3 {
+    margin-bottom: 4px;
+}
+
+h2, h3 {
+    border-bottom:1px black dotted;
+}
+
+.note {
+    margin-bottom: 8px;
+}
+
+/*  GO One Colum BELOW 480 PIXELS */
+@media only screen and (max-width: 580px) {
+	.img-grid {
+		grid-template-columns: repeat(1, 1fr);
+	}
+	.logos-grid {
+		grid-template-columns: repeat(2, 1fr);
+	}
+
+    .ro{
+        display: block;
+        flex-wrap: wrap;
+    }
+    
+    .c0{
+        width: 100vw;
+        flex:1;
+    }
+}
