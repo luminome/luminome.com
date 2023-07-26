@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "nodemon src/server/main.ts -w src/server",
-    "start": "NODE_ENV=production ts-node src/server/main.ts",
+    "start": "npm run build && NODE_ENV=production ts-node src/server/main.ts",
     "build": "vite build"
   },
   "devDependencies": {
