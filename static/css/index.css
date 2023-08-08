@@ -1,6 +1,7 @@
 :root {
     color: rgba(100,100,100,1.0);
-    font-family: heavy_data;
+    font-family: Helvetica, sans-serif;
+    /* font-family: heavy_data; */
     font-size: 0.8em;
 }
 
@@ -12,7 +13,7 @@
 }
 
 body {
-    margin: 10px;
+    margin: 20px;
 }
 
 div {
@@ -20,7 +21,7 @@ div {
 }
 
 .note{
-    font-size:80%;
+    /* font-size:80%; */
     opacity:0.8;
 }
 
@@ -69,5 +70,58 @@ h2, h3 {
     .c0{
         width: 100vw;
         flex:1;
+    }
+}
+
+.image-list{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.image-item{
+    border:1px gray solid;
+    position:relative;
+    width:33%;
+    height:400px;
+    /* margin:4px; */
+    padding:8px;
+    border-radius: 8px;
+    box-sizing: border-box;
+    flex:33%;
+    /* background-color: aliceblue; */
+}
+
+/* .image-item:not(:first-child){
+    margin-left:8px;
+} */
+
+.image-item img{
+    max-width: 100%;
+    /* max-width: calc(100% - 16px); */
+    max-height:300px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+}
+
+.image-item .note{
+    position:absolute;
+    width:90%;
+    bottom:0;
+
+}
+
+@media only screen and (max-width: 700px) {
+    .image-item {
+        width:50%;
+        flex:50%;
+    }
+}
+
+@media only screen and (max-width: 580px) {
+    .image-item {
+        width:100%;
+        flex:100%;
     }
 }
