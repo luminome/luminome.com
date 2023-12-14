@@ -1,0 +1,279 @@
+Key
+From
+To
+Cat
+Name
+Source
+Doc
+
+K
+06-17-1973
+Null
+Other
+Born
+
+K
+09-01-1976
+Null
+Other
+Learned French (first pass)
+
+K
+11-10-2023
+Now
+Other
+This Project
+
+K
+11-10-1988
+09-01-2002
+Software
+Aldus (et MacroMedia) Freehand
+https://en.wikipedia.org/wiki/Portland,_Oregon
+
+K
+09-01-2002
+Now
+Software
+Adobe Illustrator
+
+K
+10-01-1997
+10-01-2010
+Software
+(MacroMedia and Adobe) Flash
+
+K
+11-01-2008
+Now
+Software
+Python
+
+K
+11-01-2008
+Null
+Software
+Switched to Python(v2.7)
+
+K
+11-01-1998
+Now
+Software
+JavaScript
+
+K
+02-01-2023
+Now
+Software-Framework
+JavaScript-React
+
+K
+02-01-2016
+Now
+Software-Library
+JavaScript-ThreeJS
+
+K
+12-01-2022
+Now
+Software-Framework
+JavaScript-Angular
+
+K
+11-01-2009
+01-01-2016
+Software-Framework
+Python-Django
+
+K
+01-01-1977
+Now
+Art
+Drawing
+
+K
+10-01-1991
+Now
+Art
+Mixed-Media
+
+K
+06-17-1973
+08-01-1980
+Location
+Portland, OR USA
+https://en.wikipedia.org/wiki/Portland,_Oregon
+
+K
+07-15-1992
+Now
+Software
+Photoshop
+
+K
+01-01-1999
+Now
+Software
+SQL
+
+K
+08-01-1980
+06-01-1981
+Location
+Tourettes-sûr-loup, var France.
+https://en.wikipedia.org/wiki/Tourrettes-sur-Loup
+
+K
+06-01-1981
+08-26-1991
+Location
+Portland, OR USA
+https://en.wikipedia.org/wiki/Portland,_Oregon
+
+K
+08-26-1991
+06-20-1995
+Location
+Walla walla, WA USA
+https://en.wikipedia.org/wiki/Walla_Walla,_Washington
+
+K
+06-20-1995
+04-01-1996
+Location
+Portland, OR USA
+https://en.wikipedia.org/wiki/Portland,_Oregon
+
+K
+08-26-1991
+06-20-1995
+Education
+College
+https://en.wikipedia.org/wiki/Walla_Walla,_Washington
+
+K
+05-28-1995
+Null
+Art
+Studio-art thesis exhibition. 2nd place Perry award.
+
+K
+05-01-1983
+Null
+Hardware
+Sees first apple Macintosh computer.
+https://en.wikipedia.org/wiki/Macintosh_128K
+
+K
+07-01-1984
+Null
+Hardware
+Apple Lisa computer at home.
+https://en.wikipedia.org/wiki/Apple_Lisa
+
+K
+09-03-1987
+06-12-1991
+Education
+High school
+https://en.wikipedia.org/wiki/Lincoln_High_School_(Portland,_Oregon)
+
+K
+07-01-1995
+09-01-1995
+Education
+Portland State University
+
+K
+06-20-2017
+08-07-2017
+Education
+University of Vermont. Printmaking: Serigraphy
+
+K
+10-03-1987
+Null
+Software
+Discover HyperCard
+https://en.wikipedia.org/wiki/HyperCard
+
+K
+10-01-1997
+Now
+Software
+HTML/CSS
+
+K
+06-01-1999
+09-01-2008
+Software
+PHP
+
+K
+06-01-2008
+Now
+Software-Framework
+WordPress
+
+K
+04-01-1996
+03-01-2013
+Location
+Burlington, VT USA
+
+K
+04-01-2013
+02-01-2014
+Location
+Los Angeles, CA USA
+
+K
+03-01-2014
+11-01-2014
+Location
+Saint-Jean-de-Braye, Loiret France
+
+K
+11-01-2014
+08-01-2015
+Location
+Paris, France
+
+K
+08-01-2015
+03-01-2017
+Location
+Orléans, Loiret France 
+
+K
+04-01-2017
+08-20-2021
+Location
+Burlington, VT USA
+
+K
+08-20-2021
+Now
+Location
+Marseille, France
+
+K
+08-01-1995
+Null
+Design
+First freelance graphic design gig. Job was a label for an olive-oil company.
+
+K
+06-01-1999
+Null
+Other
+Registration of "luminome.com" domain.
+Null
+https://luminome.com
+
+K
+11-20-2019
+Null
+Other
+Discovered Venice Classic Radio
+http://116.202.241.212:8010/stream

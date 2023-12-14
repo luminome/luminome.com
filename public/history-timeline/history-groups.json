@@ -1,0 +1,58 @@
+{
+    "Location":{
+        "order": 0,
+        "color": [0.2, 1.0, 0.3, 1.0]
+    },
+    "Client":{
+        "order": 3,
+        "color": [0.75, 1.0, 0.65]
+    },
+    "Job":{
+        "order": 2,
+        "color": [0.75, 1.0, 0.5]
+    },
+    "Studio":{
+        "order": 1,
+        "color": [0.25, 1.0, 0.3]
+    },
+    "Other":{
+        "order": 100,
+        "color": [0.15, 1.0, 0.25, 1.0],
+        "width":0.5
+    },
+    "Art":{
+        "order": 4,
+        "color": [0.0, 1.0, 0.35]
+    },
+    "Design":{
+        "order": 3,
+        "color": [0.0, 1.0, 0.75]
+    },
+    "Education":{
+        "order": 1,
+        "color": [0.5, 1.0, 0.3]
+    },
+    "Hardware":{
+        "order": 12,
+        "color": [0.95, 1.0, 0.5]
+    },
+    "Software":{
+        "order": 8,
+        "color": [0.75, 0.0, 0.5],
+        "width":0.5
+    },
+    "Framework":{
+        "order": 10,
+        "color": [0.75, 0.0, 0.25],
+        "width":0.5
+    },
+    "Library":{
+        "order": 11,
+        "color": [0.75, 0.0, 0.325],
+        "width":0.5
+    },
+    "Body":{
+        "order": 21,
+        "color": [0.75, 1.0, 0.95]
+    }
+}

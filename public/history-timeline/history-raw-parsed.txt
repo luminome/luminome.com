@@ -1,0 +1,438 @@
+Key
+From
+To
+Cat
+Name
+Source
+Doc
+
+OSEOM
+06-17-1973
+Null
+Other
+Born
+
+989YB
+06-17-1973
+08-01-1980
+Location
+Portland, OR USA
+https://en.wikipedia.org/wiki/Portland,_Oregon
+
+DYD7F
+09-01-1976
+Null
+Other
+Learned French (first pass)
+
+GENVU
+01-01-1977
+Null
+Art
+Started drawing
+
+9JLNI
+08-01-1977
+Null
+Other
+Legos: first Lego set.
+
+2IBWO
+08-01-1980
+06-01-1981
+Location
+Tourettes-sûr-loup, var France.
+https://en.wikipedia.org/wiki/Tourrettes-sur-Loup
+
+YOAZM
+06-01-1981
+08-26-1991
+Location
+Portland, OR USA
+https://en.wikipedia.org/wiki/Portland,_Oregon
+
+UX8S3
+05-01-1983
+Null
+Hardware
+Sees first apple Macintosh computer.
+https://en.wikipedia.org/wiki/Macintosh_128K
+
+NKTZV
+07-01-1984
+Null
+Hardware
+Apple Lisa computer at home.
+https://en.wikipedia.org/wiki/Apple_Lisa
+
+W7H5K
+09-03-1987
+06-12-1991
+Education
+High school
+https://en.wikipedia.org/wiki/Lincoln_High_School_(Portland,_Oregon)
+
+UKXPE
+10-03-1987
+Null
+Software
+Discover HyperCard
+https://en.wikipedia.org/wiki/HyperCard
+
+UBFIR
+11-10-1988
+09-01-2002
+Software
+Aldus (et MacroMedia) Freehand
+https://en.wikipedia.org/wiki/Portland,_Oregon
+
+C1QRV
+08-26-1991
+06-20-1995
+Location
+Walla walla, WA USA
+https://en.wikipedia.org/wiki/Walla_Walla,_Washington
+
+UCAGP
+08-26-1991
+06-20-1995
+Education
+College
+https://en.wikipedia.org/wiki/Walla_Walla,_Washington
+
+JV3QW
+10-01-1991
+Null
+Art
+Started mixed-media
+
+PF1WC
+07-15-1992
+Now
+Software
+Photoshop
+
+HDQH3
+05-28-1995
+Null
+Art
+Studio-art thesis exhibition. 2nd place Perry award.
+
+1935G
+06-20-1995
+04-01-1996
+Location
+Portland, OR USA
+https://en.wikipedia.org/wiki/Portland,_Oregon
+
+112E9
+06-20-1995
+04-01-1996
+Job
+Rock Soft Futon Co.
+
+9POG6
+07-01-1995
+09-01-1995
+Education
+Portland State University
+
+XSTXM
+08-01-1995
+Null
+Design
+First freelance graphic design gig. Job was a label for an olive-oil company.
+
+MA3FA
+04-01-1996
+03-01-2013
+Location
+Burlington, VT USA
+
+U0JOE
+09-01-1996
+08-01-1997
+Job
+Shadows and Light Design
+
+17MTU
+08-01-1997
+01-01-1999
+Job
+Only Once Graphics
+
+QUR1S
+10-01-1997
+10-01-2010
+Software
+(MacroMedia and Adobe) Flash
+
+RCNE6
+10-01-1997
+Now
+Software
+HTML/CSS
+
+WJUMG
+06-12-1998
+08-01-2010
+Client
+Phish (band)
+
+2N7OM
+06-15-1998
+06-15-2011
+Studio
+The Hood Plant
+
+7QOSB
+11-01-1998
+Now
+Software
+JavaScript
+
+ZYEOU
+01-01-1999
+Now
+Software
+SQL
+
+PMBI2
+06-01-1999
+09-01-2008
+Software
+PHP
+
+8JRVR
+06-01-1999
+Null
+Other
+Registration of "luminome.com" domain.
+Null
+https://luminome.com
+
+OV14Q
+01-15-2002
+01-15-2008
+Client
+HigherGround (music venue)
+
+E6PXI
+09-01-2002
+Now
+Software
+Adobe Illustrator
+
+X7WJQ
+05-01-2004
+08-01-2004
+Client
+Medeski Martin & Wood (band)
+https://en.wikipedia.org/wiki/End_of_the_World_Party_(Just_in_Case)
+
+7L0DM
+10-01-2006
+Now
+Library
+MongoDB
+
+21GM5
+06-01-2008
+Now
+Framework
+WordPress
+
+B3AWK
+11-01-2008
+Now
+Software
+Python
+
+JDWFW
+11-01-2008
+Null
+Software
+Switched to Python(v2.7)
+
+B7EUZ
+08-01-2009
+01-01-2022
+Client
+Norwegian Flyfisher's Club ("ok")
+http://nfc-online.com/
+
+6J8ZG
+11-01-2009
+01-01-2016
+Framework
+Python-Django
+
+PPV24
+06-01-2010
+06-01-2012
+Client
+Yale Medical School
+http://anatomy.medicine.yale.edu/
+
+9PQVL
+11-01-2011
+04-01-2013
+Job
+Localvore Inc.
+
+TLSUJ
+01-01-2013
+Now
+Client
+Friends for A_Dog Foundation
+
+GZSMV
+04-01-2013
+02-01-2014
+Location
+Los Angeles, CA USA
+
+83ZN4
+04-01-2013
+02-01-2014
+Studio
+Bay Street (DTLA)
+
+UR8FE
+03-01-2014
+11-01-2014
+Location
+Saint-Jean-de-Braye, Loiret France
+
+8Q2S9
+03-01-2014
+11-01-2014
+Studio
+Saint-Jean-de-Braye WareHouse
+
+1TLPH
+11-01-2014
+08-01-2015
+Location
+Paris, France
+
+K8ED2
+08-01-2015
+03-01-2017
+Location
+Orléans, Loiret France 
+
+E3WFZ
+02-01-2016
+Now
+Library
+JavaScript-ThreeJS
+
+DIVHZ
+04-01-2017
+08-20-2021
+Location
+Burlington, VT USA
+
+494RN
+06-20-2017
+08-07-2017
+Education
+University of Vermont. Printmaking: Serigraphy
+
+VI1NS
+07-01-2017
+08-01-2021
+Studio
+266 Pine Street
+
+LICJD
+08-01-2017
+11-26-2017
+Art
+Verlicht Print Edition
+https://scottandrecampbell.com/verlicht-sun-stares-directly/
+
+HUE8M
+08-09-2018
+09-09-2018
+Art
+Deliveries Exposition
+https://karmabirdhouse.co/
+
+XZSQO
+01-01-2019
+02-14-2019
+Art
+Residency - Submission
+https://artgallery.champlain.edu/
+https://www.sevendaysvt.com/arts-culture/scott-andre-campbell-depth-and-playfulness-in-submission-for-champlain-college-25766483
+
+Q5GLE
+11-09-2019
+11-09-2019
+Art
+Aggregate Exposition
+https://artgallery.champlain.edu/
+
+06B2H
+11-20-2019
+Null
+Other
+Discovered Venice Classic Radio
+http://116.202.241.212:8010/stream
+
+BATSN
+02-01-2021
+09-15-2021
+Client
+TracingHealth.org (PHI/OPHI)
+
+0V9P6
+08-20-2021
+Now
+Location
+Marseille, France
+
+21NUQ
+04-16-2022
+09-01-2023
+Client
+CNRS
+https://wudi.mio.osupytheas.fr/
+
+4AA0B
+12-01-2022
+Now
+Framework
+JavaScript-Angular
+
+9P9LZ
+01-01-2023
+Now
+Library
+MongoDB-Atlas
+
+5NVMO
+02-01-2023
+Now
+Framework
+JavaScript-React
+
+NT3LW
+11-10-2023
+Now
+Other
+This Project (edited)
+
+JSB4E
+11-15-2023
+11-21-2023
+Body
+Boil on face.
+
+VQJC8
+11-21-2023
+Null
+Other
+Any new event.
