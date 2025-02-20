@@ -13,11 +13,8 @@
 }
 
 body {
-    margin: 20px;
-}
-
-div {
-    /* background-color: beige; */
+    margin: 0;
+    overflow: hidden;
 }
 
 .note{
@@ -124,4 +121,47 @@ h2, h3 {
         width:100%;
         flex:100%;
     }
+}
+
+
+#app{
+    display: flex;
+    flex-direction: column;
+    /* max-height:100vh; */
+    height:100vh;
+    overflow:hidden;
+    /* border: 1px red solid; */
+    box-sizing: border-box;
+}
+
+#app div{
+    /* margin:0;
+    padding:0; */
+    /* border: 1px red solid; */
+    box-sizing: border-box;
+}
+
+
+.splash{
+    display: flex;
+    flex:1;
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+}
+
+.credit{
+    text-align: right;
+    vertical-align: top;
+    padding: 10px;
+    font-size: 0.8em;
+    opacity: 0.8;
+}
+
+
+#main-svg{
+    display: block;
+    width: 100vw;
+    height: 90lvh;
+    /* border: 1px red solid; */
 }
